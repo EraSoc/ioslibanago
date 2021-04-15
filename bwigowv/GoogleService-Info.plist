@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>494191726353-jmfs6b5u84rhp70i37l9p9420juj3ue9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.494191726353-jmfs6b5u84rhp70i37l9p9420juj3ue9</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>494191726353-0csfpjucuer39cqea0flie1hhro7m1jg.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBxP6wRwCk45DEv9OuQ8pDdmJgiEPKtPOE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>494191726353</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.link2loyalty.bwigowv</string>
+	<key>PROJECT_ID</key>
+	<string>bwigolib</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bwigolib.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:494191726353:ios:71a0e807ed2ec3aca0c6b0</string>
+</dict>
+</plist>
